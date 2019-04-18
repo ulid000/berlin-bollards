@@ -1,0 +1,10 @@
+data/ortsteile.json filter=lfs diff=lfs merge=lfs -text
+data/ortsteile.prj filter=lfs diff=lfs merge=lfs -text
+data/ortsteile.shp filter=lfs diff=lfs merge=lfs -text
+data/poller.shx filter=lfs diff=lfs merge=lfs -text
+data/ortsteile.dbf filter=lfs diff=lfs merge=lfs -text
+data/ortsteile.shx filter=lfs diff=lfs merge=lfs -text
+data/poller.dbf filter=lfs diff=lfs merge=lfs -text
+data/poller.json filter=lfs diff=lfs merge=lfs -text
+data/poller.prj filter=lfs diff=lfs merge=lfs -text
+data/poller.shp filter=lfs diff=lfs merge=lfs -text
