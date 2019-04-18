@@ -4,6 +4,8 @@ In diesem Repository befinden sie die Daten und Konfigurationen, um mit QGIS all
 
 ![Karte aller Poller](/export/karte-poller.png)
 
+![Pollerdichte der Ortsteile](/export/karte-pollerdichte.png)
+
 ### Daten
 
 Unter https://daten.berlin.de/datensaetze/straßenbefahrung-2014-poller-wfs-0 stellt das Land Berlin die Geodaten aller bei der Straßenbefahrung 2014 erfassten Poller zur Verfügung. Zusätzlich werden die [Ortsteile von Berlin](https://daten.berlin.de/datensaetze/ortsteile-von-berlin-wms) zur Analyse und für die verwendet
