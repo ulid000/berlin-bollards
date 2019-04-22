@@ -22,6 +22,8 @@ Bei einer Umsetzung von geschützten Radverkehrsanlagen (Protected Bike Lane) mi
 
 Bei den Ortsteilen ist der Spitzenreiter Friedenau mit 22,8 Pollern pro ha, gefolgt von Halensee (19,6/ha) und Alt-Treptow (18,7/ha).
 
+![Friedenau](./export/karte-poller-friedenau.png)
+
 ## Bezirke
 
 Der Bezirk mit der höchsten Pollerdichte ist Friedrichshain-Kreuzberg mit 13,6/ha. An zweiter Position steht Mitte mit 10,3/ha und an dritter Stelle Tempelhof-Schöneberg mit 6,4/ha. An letzter Stelle steht Spandau mit 1,1/ha.
